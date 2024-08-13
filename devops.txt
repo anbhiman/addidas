@@ -1,0 +1,59 @@
+What is Devops ?
+
+why Devops ?
+
+Pros and cons Devops ?
+
+Devops Tools...
+-----------------------
+
+UI  - user interface
+
+backend  - code will there (c,java,.net,python,AI,php,................) - Technologies -> we build the applicaion 
+
+----------------------------
+
+new project
+
+plan - technolgies
+
+code - Github/jira/eclipse/gitlab/Azure Repo (Online store to save the files)
+
+Build - Compress the application code files into one single file - package or build o/p (maven,gradle -java project,Msbuild - .net projects)
+
+Test - Testing the application (selnium,junit,sonarqube)
+
+Release  - jenkins,azure devops,Bamboo (Transfer the package from one server to another server)
+
+Deploy  - ansible,chef,pupper,saltstack (install/update the applicaion into server)
+
+operate/monitor - checkig the helath of sever.server are running or stop (splunk ,nagios)
+
+-----------------------------
+
+Linux - devops enginer
+
+docker
+
+kubernets
+
+terraform script
+
+--------------------
+What is cloud ?
+
+Cloud computing - azure ,aws,gcp
+
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

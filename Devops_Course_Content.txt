@@ -1,0 +1,84 @@
+Linux
+
+Github
+ - Add/Modify/Publish code
+ - Cherrypick
+ - Merge
+ - Pull Request
+ - Logs
+ - Commits
+Jenkins - CI/CD (AWS)
+
+Maven - build for java
+
+Sonarqube - code quality
+
+Artifactory - store Build Outputs(.dll,.jar,.war)
+
+Docker
+
+ - Containers
+ - Networking
+ - Volumes
+ - DockerFile
+ - Push/Pull Image
+
+Azure Devops 
+ - Build and Release pipelines - CI/CD (Azure)
+ - Artifactory
+ - Serice connections
+ - Agents
+ - Permissions
+
+Terraform
+ - init
+ - plan
+ - apply
+ - state File
+ - Import/data block
+ - Intergrate Terraform with Azure/jenkins CI/CD
+
+Kubernets -
+ - Cluseter
+ - Nodes
+ - Pods
+ - Config maps
+ - Secrect
+ - Deployments
+
+Ansible/cheff/puppet
+
+Interview topics
+
+2 live projects
+
+-------------------------------
+
+Azure admin Concepts
+
+virtual Machine
+virtual Network
+storage Account
+Azure Sql Database
+Azure backup &restore
+Azure key valut
+Active Directory
+
+--------------------------------
+Azure ETL Services
+
+Azure Data Factory
+Azure Data Lake
+Azure Dataware House
+Azure Databricks
+
+--------------------------------
+
+Azure Developer services
+
+Azure Appservice
+Azure Logic Apps
+Azure Function Apps
+Azure Api Services
+Azure Service Bus
+
