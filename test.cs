@@ -1,2 +1,3 @@
 int i=10;
-int j=;
+int j=20;
+int k=60;
